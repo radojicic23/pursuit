@@ -38,7 +38,7 @@ int main() {
 }
 ```
 
-- Quick debugging (include the debugger header file wherever you want it:
+- Quick debugging (include the debugger header file wherever you want it):
 ```c
 int function() {
     #include "debugger.h"
