@@ -10,7 +10,7 @@
 ```
 
 # Pursuit🚨
-Debug your C program easy and like a pro with pursuit debugger. Easy to use!
+Debug your C program easy and like a pro with pursuit debugger. It's very easy to use!
 
 ## Run 
 - Move debugger.h in your directory.
