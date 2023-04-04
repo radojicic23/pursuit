@@ -10,6 +10,9 @@
 ```
 
 # Pursuit🚨
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Debug your C program easy and like a pro with pursuit debugger. It's very easy to use!
 
 ## Run 
